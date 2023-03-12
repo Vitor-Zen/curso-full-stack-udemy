@@ -1,0 +1,9 @@
+> maior que
+>= maior igual que
+< menor que
+<= menor igual
+== igual
+=== igualdade estrita (esse checa além do valor, o tipo) -> muito mais recomendado o uso em js
+!= diferente 
+!== diferente estrito (além de checar o valor, tambem checa o tipo)
+
